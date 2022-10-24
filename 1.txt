@@ -5,3 +5,4 @@ git add new line2~~
 git add new line3~~
 git add new line4~~
 git add new line 5~~
+git fixed the bug
